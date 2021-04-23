@@ -35,7 +35,7 @@ body {
 
 .price {
   padding: 50px 0 100px 0;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .price .price__content {
